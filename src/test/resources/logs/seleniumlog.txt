@@ -1,0 +1,157 @@
+19-11-16 02:09:22:274  INFO main base.testBase:63 - config file loaded
+19-11-16 02:09:22:283  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:09:30:097  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:09:30:194  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:09:30:292  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:09:31:472  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:09:32:676  INFO main base.testBase:63 - config file loaded
+19-11-16 02:09:32:679  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:09:38:393  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:09:38:486  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:09:38:603  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: WrongPassword
+19-11-16 02:09:39:039  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:09:40:036  INFO main base.testBase:63 - config file loaded
+19-11-16 02:09:40:038  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:09:44:969  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:09:45:046  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: Harry
+19-11-16 02:09:45:158  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:09:45:591  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:09:46:720  INFO main base.testBase:63 - config file loaded
+19-11-16 02:09:46:721  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:09:52:156  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:09:52:446  INFO main base.testBase:168 - clicking on the button: forgetPwdBtn_XPATH
+19-11-16 02:09:52:570  INFO main base.testBase:189 - Input into the TextBox: emailInputTextBox_ID and entering the value of: salman@lalu.com
+19-11-16 02:09:52:861  INFO main base.testBase:168 - clicking on the button: sendPwdBtn_NAME
+19-11-16 02:09:53:712  INFO main base.testBase:63 - config file loaded
+19-11-16 02:09:53:713  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:09:58:599  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:09:58:686  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:09:58:816  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:10:00:059  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:10:00:633  INFO main base.testBase:168 - clicking on the button: cashAccountBtn_XPATH
+19-11-16 02:10:01:541  INFO main base.testBase:63 - config file loaded
+19-11-16 02:10:01:541  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:10:08:166  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:10:08:288  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:10:08:390  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:10:09:559  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:10:10:319  INFO main base.testBase:168 - clicking on the button: brokerageBtn_XPATH
+19-11-16 02:10:11:318  INFO main base.testBase:63 - config file loaded
+19-11-16 02:10:11:320  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:10:16:280  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:10:16:372  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:10:16:470  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:10:17:674  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:10:18:383  INFO main base.testBase:168 - clicking on the button: checkingBtn_XPATH
+19-11-16 02:10:19:374  INFO main base.testBase:63 - config file loaded
+19-11-16 02:10:19:375  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:10:24:260  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:10:24:386  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:10:24:496  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:10:25:707  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:10:26:325  INFO main base.testBase:168 - clicking on the button: creditCardBtn_XPATH
+19-11-16 02:10:27:460  INFO main base.testBase:63 - config file loaded
+19-11-16 02:10:27:465  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:10:32:257  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:10:32:341  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:10:32:465  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:10:33:849  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:10:35:998  INFO main base.testBase:168 - clicking on the button: loanBtn_XPATH
+19-11-16 02:10:36:928  INFO main base.testBase:63 - config file loaded
+19-11-16 02:10:36:930  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:10:41:910  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:10:41:991  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:10:42:088  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:10:43:257  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:10:43:774  INFO main base.testBase:168 - clicking on the button: transferFundTab_XPATH
+19-11-16 02:10:44:560  INFO main base.testBase:63 - config file loaded
+19-11-16 02:10:44:561  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:10:49:385  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:10:49:481  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:10:49:601  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:10:50:809  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:10:51:299  INFO main base.testBase:168 - clicking on the button: transferFundTab_XPATH
+19-11-16 02:10:51:355  INFO main base.testBase:211 - Selecting the option of: Savings(Avail. balance = $ 1000) from the dropdown element: fromAccountDropDown_ID
+19-11-16 02:10:51:437  INFO main base.testBase:211 - Selecting the option of: Loan(Avail. balance = $ 780) from the dropdown element: toAccountDropDown_XPATH
+19-11-16 02:10:51:517  INFO main base.testBase:189 - Input into the TextBox: amount_XPATH and entering the value of: 100.0
+19-11-16 02:10:51:802  INFO main base.testBase:168 - clicking on the button: continueBtn_XPATH
+19-11-16 02:10:52:114  INFO main base.testBase:168 - clicking on the button: submitBtn_XPATH
+19-11-16 02:10:53:010  INFO main base.testBase:63 - config file loaded
+19-11-16 02:10:53:011  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:10:58:722  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:10:58:867  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:10:59:005  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:11:00:242  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:11:00:775  INFO main base.testBase:168 - clicking on the button: transferFundTab_XPATH
+19-11-16 02:11:00:842  INFO main base.testBase:211 - Selecting the option of: Savings(Avail. balance = $ 1000) from the dropdown element: fromAccountDropDown_ID
+19-11-16 02:11:00:930  INFO main base.testBase:211 - Selecting the option of: Loan(Avail. balance = $ 780) from the dropdown element: toAccountDropDown_XPATH
+19-11-16 02:11:01:032  INFO main base.testBase:189 - Input into the TextBox: amount_XPATH and entering the value of: 150.0
+19-11-16 02:11:01:300  INFO main base.testBase:168 - clicking on the button: continueBtn_XPATH
+19-11-16 02:11:01:643  INFO main base.testBase:168 - clicking on the button: cancelBtn_XPATH
+19-11-16 02:11:02:556  INFO main base.testBase:63 - config file loaded
+19-11-16 02:11:02:557  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:11:08:226  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:11:08:340  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:11:08:453  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:11:09:743  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:11:10:191  INFO main base.testBase:168 - clicking on the button: transferFundTab_XPATH
+19-11-16 02:11:10:249  INFO main base.testBase:211 - Selecting the option of: Savings(Avail. balance = $ 1000) from the dropdown element: fromAccountDropDown_ID
+19-11-16 02:11:10:326  INFO main base.testBase:211 - Selecting the option of: Loan(Avail. balance = $ 780) from the dropdown element: toAccountDropDown_XPATH
+19-11-16 02:11:10:420  INFO main base.testBase:189 - Input into the TextBox: amount_XPATH and entering the value of: 100.0
+19-11-16 02:11:10:708  INFO main base.testBase:168 - clicking on the button: continueBtn_XPATH
+19-11-16 02:11:11:105  INFO main base.testBase:168 - clicking on the button: submitBtn_XPATH
+19-11-16 02:11:11:378  INFO main base.testBase:168 - clicking on the button: anotherTransactionBtn_XPATH
+19-11-16 02:11:12:228  INFO main base.testBase:63 - config file loaded
+19-11-16 02:11:12:229  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:11:17:186  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:11:17:279  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:11:17:378  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:11:18:570  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:11:19:379  INFO main base.testBase:168 - clicking on the button: payBillsTab_XPATH
+19-11-16 02:11:20:396  INFO main base.testBase:63 - config file loaded
+19-11-16 02:11:20:397  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:11:25:333  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:11:25:437  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:11:25:560  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:11:26:812  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:11:27:741  INFO main base.testBase:168 - clicking on the button: payBillsTab_XPATH
+19-11-16 02:11:27:887  INFO main base.testBase:211 - Selecting the option of: Bank of America from the dropdown element: payeeDropDown_XPATH
+19-11-16 02:11:28:024  INFO main base.testBase:211 - Selecting the option of: Loan from the dropdown element: accountDropDown_XPATH
+19-11-16 02:11:28:161  INFO main base.testBase:189 - Input into the TextBox: amountInput_XPATH and entering the value of: 1000.0
+19-11-16 02:11:28:653  INFO main base.testBase:189 - Input into the TextBox: descriptionInput_XPATH and entering the value of: Loan Purpose
+19-11-16 02:11:29:053  INFO main base.testBase:168 - clicking on the button: payBtn_XPATH
+19-11-16 02:11:30:800  INFO main base.testBase:63 - config file loaded
+19-11-16 02:11:30:801  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:12:11:884  INFO main base.testBase:63 - config file loaded
+19-11-16 02:12:11:885  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:12:16:805  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:12:16:910  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:12:17:017  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:12:18:212  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:12:19:046  INFO main base.testBase:168 - clicking on the button: payBillsTab_XPATH
+19-11-16 02:12:19:174  INFO main base.testBase:168 - clicking on the button: addPayeeTab_XPATH
+19-11-16 02:12:19:398  INFO main base.testBase:189 - Input into the TextBox: payeeNameInput_XPATH and entering the value of: AluChor
+19-11-16 02:12:19:694  INFO main base.testBase:189 - Input into the TextBox: payeeAddressInput_XPATH and entering the value of: infinityroad,galaxy milkyway
+19-11-16 02:12:19:802  INFO main base.testBase:189 - Input into the TextBox: accountInput_XPATH and entering the value of: Loan
+19-11-16 02:12:19:982  INFO main base.testBase:189 - Input into the TextBox: payeeDeatilsInput_XPATH and entering the value of: Add new payee for fun
+19-11-16 02:12:20:415  INFO main base.testBase:168 - clicking on the button: addBtn_XPATH
+19-11-16 02:12:21:794  INFO main base.testBase:63 - config file loaded
+19-11-16 02:12:21:795  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:12:26:580  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:12:26:690  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:12:26:804  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:12:27:975  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:12:28:640  INFO main base.testBase:168 - clicking on the button: payBillsTab_XPATH
+19-11-16 02:12:28:733  INFO main base.testBase:168 - clicking on the button: purchasexchangeTab_XPATH
+19-11-16 02:12:29:655  INFO main base.testBase:63 - config file loaded
+19-11-16 02:12:29:656  INFO main base.testBase:81 - Object repository file loaded
+19-11-16 02:12:35:448  INFO main base.testBase:168 - clicking on the button: signInBtn_ID
+19-11-16 02:12:35:565  INFO main base.testBase:189 - Input into the TextBox: logInNametextbox_ID and entering the value of: username
+19-11-16 02:12:35:721  INFO main base.testBase:189 - Input into the TextBox: logInPasswordTextBox_ID and entering the value of: password
+19-11-16 02:12:37:063  INFO main base.testBase:168 - clicking on the button: submitBtn_NAME
+19-11-16 02:12:37:719  INFO main base.testBase:168 - clicking on the button: payBillsTab_XPATH
+19-11-16 02:12:37:810  INFO main base.testBase:168 - clicking on the button: purchasexchangeTab_XPATH
+19-11-16 02:12:38:025  INFO main base.testBase:211 - Selecting the option of: Canada (dollar) from the dropdown element: purchaseCurrencyDropDown_XPATH
+19-11-16 02:12:38:131  INFO main base.testBase:189 - Input into the TextBox: purchaseAmountInput_XPATH and entering the value of: 1000.0
+19-11-16 02:12:38:213  INFO main base.testBase:228 - Selecting the radio button : usdollarRadioBtn_XPATH
+19-11-16 02:12:38:616  INFO main base.testBase:168 - clicking on the button: purchaseBtn_XPATH
