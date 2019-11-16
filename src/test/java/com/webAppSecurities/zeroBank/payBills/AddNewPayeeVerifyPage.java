@@ -1,6 +1,7 @@
 package com.webAppSecurities.zeroBank.payBills;
 
 import java.util.Hashtable;
+import java.util.concurrent.TimeUnit;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -29,7 +30,7 @@ public class AddNewPayeeVerifyPage extends testBase {
 			click("payBillsTab_XPATH");
 			click("addPayeeTab_XPATH");
 
-			assertThat(getTextFromMessage("addPayeeVerifyMessage_XPATH"), is(data.get("Message")));
+			assertThat(getTextFromMessage("payeeName_XPATH"), is(data.get("Message")));
 
 		} catch (AssertionError e) {
 

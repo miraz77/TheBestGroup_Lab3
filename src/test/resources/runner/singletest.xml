@@ -10,7 +10,7 @@
  
 	<test name="Test">
 		<classes>
-			<class name="com.webAppSecurities.zeroBank.payBills.PaySavedPayeeFunctionTest" />
+			<class name="com.webAppSecurities.zeroBank.transferfund.TransferFundNumericValueChk" />
 			
 			
 		</classes>
