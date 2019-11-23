@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Nov_16_05_29_42_EET_2019.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Nov_16_05_29_42_EET_2019.jpg><img src=Sat_Nov_16_05_29_42_EET_2019.jpg height=200 width=200></img></a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2019-11-16T05:29:22 EET" name="DDF with Zero Bank" finished-at="2019-11-16T05:29:43 EET" duration-ms="20668">
+    <groups>
+    </groups>
+    <test started-at="2019-11-16T05:29:22 EET" name="Test" finished-at="2019-11-16T05:29:43 EET" duration-ms="20668">
+      <class name="com.webAppSecurities.zeroBank.transferfund.TransferFundNumericValueChk">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.webAppSecurities.zeroBank.transferfund.TransferFundNumericValueChk@156b88f5]" started-at="2019-11-16T05:29:22 EET" name="setUp" finished-at="2019-11-16T05:29:27 EET" duration-ms="5278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="transferfundnumericvaluechk(java.util.Hashtable)[pri:0, instance:com.webAppSecurities.zeroBank.transferfund.TransferFundNumericValueChk@156b88f5]" started-at="2019-11-16T05:29:28 EET" name="transferfundnumericvaluechk" data-provider="transferFundDP" finished-at="2019-11-16T05:29:41 EET" duration-ms="13322" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=username, Amount=Miraz, RunMode=Y, Message=Transfer Money & Make Payments - Verify, ToAccount=Loan(Avail. balance = $ 780), Password=password, FromAccount=Savings(Avail. balance = $ 1000)}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CUIQ300', ip: '10.0.9.156', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Miraz\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64151}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fa9d7fe6ed9945208326e4e12139c686]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CUIQ300', ip: '10.0.9.156', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\Miraz\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64151}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fa9d7fe6ed9945208326e4e12139c686
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at com.webAppSecurities.zeroBank.transferfund.TransferFundNumericValueChk.transferfundnumericvaluechk(TransferFundNumericValueChk.java:40)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Nov_16_05_29_42_EET_2019.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Nov_16_05_29_42_EET_2019.jpg><img src=Sat_Nov_16_05_29_42_EET_2019.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- transferfundnumericvaluechk -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webAppSecurities.zeroBank.transferfund.TransferFundNumericValueChk@156b88f5]" started-at="2019-11-16T05:29:42 EET" name="tearDown" finished-at="2019-11-16T05:29:43 EET" duration-ms="732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webAppSecurities.zeroBank.transferfund.TransferFundNumericValueChk -->
+    </test> <!-- Test -->
+  </suite> <!-- DDF with Zero Bank -->
+</testng-results>
